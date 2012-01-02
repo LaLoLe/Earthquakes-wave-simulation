@@ -1,0 +1,56 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:fault.cs" caret="168" fromTop="8" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:KindofFault.cs" caret="294" fromTop="11" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:SidyFault.cs" caret="207" fromTop="8" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:Fault_combination.cs" caret="195" fromTop="2" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:Fault Genesis.cs" caret="772" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:fault.cs" caret="177" fromTop="8" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:KindofFault.cs" caret="307" fromTop="12" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:KindofFault.cs" caret="303" fromTop="11" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:SidyFault.cs" caret="275" fromTop="11" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:SidyFault.cs" caret="216" fromTop="8" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:Fault Genesis.cs" caret="825" fromTop="14" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:Fault Genesis.cs" caret="135" fromTop="5" />
+      <File id="05F6B01A-C77F-4640-86DA-B9183DE8FA56/d:Fault/f:Fault_combination.cs" caret="161" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="3" />
+      <Item value="String`0" priority="1" />
+      <Item value="int" priority="3" />
+      <Item value="public" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="Fault_Length" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="Shift_volume" priority="1" />
+      <Item value="num" priority="0" />
+      <Item value="Fault_Depth" priority="1" />
+      <Item value="Depth" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="DivideByZeroException`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
